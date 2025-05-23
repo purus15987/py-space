@@ -1,7 +1,9 @@
 # py-space
 
+Welcome to **py-space**, a collection of personal Python notebooks and scripts.
 
-Welcome to **py-space**, a collection of personal Python notebooks and scripts developed by [Purushotham Mailapalli](https://github.com/purus15987).
+Author: [Mailapalli Purushotham](https://github.com/purus15987)
+
 
 This repo serves as a hands-on playground where I explore diverse domains such as: DS, ML, CV, NLP, Web Scraping and Creative Coding.
 
